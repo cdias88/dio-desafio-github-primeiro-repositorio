@@ -2,5 +2,6 @@
 Desafio de projeto Git/GitHub
 ## Links Ùteis
 - [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/) 
-- [Git Cheat Sheet] (https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
+- [Git Cheat Sheet](https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
+
 
